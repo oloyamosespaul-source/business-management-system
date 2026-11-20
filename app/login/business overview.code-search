@@ -1,0 +1,9 @@
+# Query: business overview
+# ContextLines: 1
+
+1 result - 1 file
+
+app\page.tsx:
+  77              <h2 className="mt-1 text-2xl font-bold text-slate-900 md:text-3xl">
+  78:               {active === "Dashboard" ? "Business Overview" : active}
+  79              </h2>
